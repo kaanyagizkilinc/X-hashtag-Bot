@@ -42,7 +42,6 @@ You can get your credentials from the Twitter Developer Portal.
 ``` bash
   python startbot.py
 ```
----
 ##📌 Important Notes
   -The Twitter API requires authentication and is limited based on your access level.
 
@@ -51,6 +50,4 @@ You can get your credentials from the Twitter Developer Portal.
   -Make sure your developer account has Elevated Access to use search_recent_tweets (if using API v2).
 
   -This project currently uses API v1.1 via Tweepy for search functionality.
-  
- ---
 
