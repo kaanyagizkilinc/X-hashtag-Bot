@@ -52,5 +52,5 @@ X-hashtag-Bot/
 └── README.md           # This file
 
 ## 📫 Contact
-
+@-mail: yagiz.info0411@gmail.com
 Made with ❤️ by @kaanyagizkilinc
