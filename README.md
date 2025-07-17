@@ -51,6 +51,4 @@ X-hashtag-Bot/
 ├── .env                # Twitter credentials (you create this)
 └── README.md           # This file
 
-## 📫 Contact
-@-mail: yagiz.info0411@gmail.com
 Made with ❤️ by @kaanyagizkilinc
